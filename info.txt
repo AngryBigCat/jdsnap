@@ -1,0 +1,34 @@
+// 华硕3070ti
+https://gate.jd.com/InitCart.aspx?pid=100022009672&pcount=1&ptype=1
+
+
+// 华硕3060
+https://gate.jd.com/InitCart.aspx?pid=100011555179&pcount=1&ptype=1
+
+
+// 华硕3080
+https://gate.jd.com/InitCart.aspx?pid=100024621744&pcount=1&ptype=1
+
+
+// 华硕3060ti
+https://gate.jd.com/InitCart.aspx?pid=100024656064&pcount=1&ptype=1
+
+
+// 七彩虹3050
+https://gate.jd.com/InitCart.aspx?pid=100017573301&pcount=1&ptype=1
+
+
+// 索泰3050
+https://gate.jd.com/InitCart.aspx?pid=100018182443&pcount=1&ptype=1
+
+
+// 影驰3050
+https://gate.jd.com/InitCart.aspx?pid=100031997872&pcount=1&ptype=1
+
+
+// 华硕3050
+https://gate.jd.com/InitCart.aspx?pid=100017885279&pcount=1&ptype=1
+
+
+// 微星3050
+https://gate.jd.com/InitCart.aspx?pid=100032514094&pcount=1&ptype=1
