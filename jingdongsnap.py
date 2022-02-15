@@ -1,11 +1,3 @@
-'''
-Function:
-    京东抢购脚本
-Author:
-    Charles
-微信公众号:
-    Charles的皮卡丘
-'''
 from cgi import print_environ_usage
 import json
 import os
