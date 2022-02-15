@@ -1,0 +1,5 @@
+beautifulsoup4==4.10.0
+DecryptLogin==0.2.12
+prettytable==3.0.0
+pyttsx3==2.90
+requests==2.25.1
